@@ -3,29 +3,32 @@
 
 // Q1 int main()
 // {
-//     char c;
+//     char ch;
 //     printf("Enter a character");
-//     scanf("%c",&c);
-//     printf("%c%d",c,c);
+//     scanf("%c",&ch);
+//     printf("%c %d",ch,ch);
 //     return 0;
 
 // }
 
-//  Q2 int main()
+// Q2 int main()
 // {
-//     int c;
-//     printf("Enter a Number");
-//     scanf("%d",&c);
-//     printf("%d %c",c,c);
+//     int x;
+//     printf("Enter a Ascii code of Number");
+//     scanf("%d",&x);
+//     printf("%d %c",x,x);
 //     return 0;
 
 // }
 // Q3 int main()
 // {
-//     int c;
+//     char a,b,c;
 //     printf("Enter three character");
-//     scanf("%d%d%d",&c,&c,&c);
-//     printf("%d%c%d%c%d%c",c,c,c);
+//     scanf("%c%c%c",&a,&b,&c);
+//     printf("%c %d\n",a,a);
+//     printf("%c %d\n",b,b);
+//     printf("%c %d\n",c,c);
+//     printf("\n");
 //     return 0;
 
 // }
@@ -40,14 +43,14 @@
 //     return 0;
 
 // }
-int main()
-{
-    int x,y;
+// int main()
+// {
+//     int x,y;
 
-    printf("Enter a Number");
-    scanf("%d",&x);
-    y=x/10;
-    printf("%d",y);
-    return 0;
+//     printf("Enter a Number");
+//     scanf("%d",&x);
+//     y=x/10;
+//     printf("%d",y);
+//     return 0;
 
-}
+// }
